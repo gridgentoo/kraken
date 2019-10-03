@@ -1,3 +1,15 @@
+# код uber : : P2P Docker registry capable of distributing TBs of data in seconds  
+
+P2P Docker Image Distribution in Hybrid Cloud Environment with Kraken - Yiran Wang & Cody Gibb, Uber  
+https://www.youtube.com/watch?v=waVtYYSXkXU  
+
+# Architecture     
+When developing Kraken, we explored multiple design choices along the way to end up with a P2P architecture. Kraken uses a P2P protocol tailored to a data center network environment and improves microservice lifecycle management at the enterprise level.  
+
+Kraken supports pluggable storage options, and instead of managing data blobs, Kraken plugs into reliable blob storage options like S3, HDFS, or another registry. The storage interface is simple, and new options are easy to add.  
+
+The unique data distribution solution is built on top of existing, well-established technologies. Furthermore, Kraken is self-healing, easy to maintain and supports lossless and rule-based async replication between clusters.  
+
 <p align="center"><img src="assets/kraken-logo-color.svg" width="175" title="Kraken Logo"></p>
 
 <p align="center">
