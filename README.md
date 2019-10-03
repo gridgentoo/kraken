@@ -1,4 +1,4 @@
-# код uber : : P2P Docker registry capable of distributing TBs of data in seconds  
+# код uber : : (P2P Docker) distributing TBs of data in seconds  
 
 P2P Docker Image Distribution in Hybrid Cloud Environment with Kraken - Yiran Wang & Cody Gibb, Uber  
 https://www.youtube.com/watch?v=waVtYYSXkXU  
