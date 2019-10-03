@@ -1,5 +1,3 @@
-# kraken
-
 <p align="center"><img src="assets/kraken-logo-color.svg" width="175" title="Kraken Logo"></p>
 
 <p align="center">
