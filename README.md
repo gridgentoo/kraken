@@ -1,3 +1,11 @@
+код uber : : P2P Docker registry способен распределять TBs данных за считанные секунды.    
+
+Оригинальный репозиторий.   
+https://github.com/uber/kraken    
+
+P2P Docker Image Distribution in Hybrid Cloud Environment with Kraken - Yiran Wang & Cody Gibb, Uber   
+https://www.youtube.com/watch?v=waVtYYSXkXU   
+
 <p align="center"><img src="assets/kraken-logo-color.svg" width="175" title="Kraken Logo"></p>
 
 <p align="center">
